@@ -59,6 +59,12 @@ h1, h2, h3, h4, h5, h6 {
     background-size: 30%;
 }
 
+#fut {
+  height: 50vh;
+  text-align: center;
+  margin-top: 50px auto 50px;
+}
+
 #page-home .content {
   width: 90%;
   max-width: 1100px;
@@ -225,6 +231,12 @@ h1, h2, h3, h4, h5, h6 {
       background-position: 20vw;
       background-size: 70%;
       background-position-y: 40vh;
+    }
+
+    #fut {
+      height: 50vh;
+      text-align: center;
+      margin-top: 10% auto 10%;
     }
 }
 
