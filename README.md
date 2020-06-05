@@ -1,5 +1,5 @@
 
-![mockup](https://raw.githubusercontent.com/project-menvo/start-menvo/master/mockup-menvo.jpg)
+![mockup](https://raw.githubusercontent.com/cojoya/start/master/assets/mockup-cojoya.jpg)
 
 
 # MENVO - Volunteer Mentors
