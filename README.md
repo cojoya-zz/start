@@ -1,5 +1,5 @@
 
-![mockup](https://raw.githubusercontent.com/cojoya/start/master/assets/mockup-cojoya.jpg)
+![mockup](https://raw.githubusercontent.com/cojoya/start/master/assets/mockup-cojoya.jpeg)
 
 
 # COJOYA - DONATE and RECEIVE (Disposal of materials)
